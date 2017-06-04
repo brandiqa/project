@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Demo of package.json",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brandiqa/project.git"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "request": "^2.81.0",
+    "underscore": "^1.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
